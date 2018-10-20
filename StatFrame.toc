@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title: StatFrame
+## Notes: Shows your current haste and crit
+## Author: Joakim Palm
+
+## X-License: GNU General Public License Version 3
+## Version 0.1
+
+StatFrame.lua
+
